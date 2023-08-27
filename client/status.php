@@ -1,0 +1,1 @@
+<h1>you account has been <?php echo $_GET['error']; ?></h1>

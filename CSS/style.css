@@ -1,0 +1,10 @@
+.header select,a,span,button {
+	text-decoration: none;
+	color: #FFE16C;
+	transition: 1s;
+}
+.header select:hover,a:hover,span:hover,button:hover{
+	background-color: #000;
+	box-shadow: 0 10px 50px 10px ;
+
+}

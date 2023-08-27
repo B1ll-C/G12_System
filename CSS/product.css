@@ -1,0 +1,38 @@
+
+.prod_table {
+	border-collapse: collapse;
+	text-transform: capitalize;
+	text-align: center;
+	margin: 5px 0 26px 0;
+
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
+
+.prod_table td,th {
+	padding: 16px;
+}
+
+.prod {
+	list-style-type: none;
+	margin-top: 6%;
+}
+.prod li {
+	float: left;
+	margin: 0 5px 0 26px;
+}
+button {
+	cursor: pointer;
+	background-color: #C67D01;
+	outline: none;
+	border: none;
+}
+button, input {
+	padding: 10px
+}
+.z {
+	cursor: not-allowed;
+}
